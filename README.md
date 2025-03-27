@@ -1,6 +1,8 @@
 Hardware desings and software sorce code related to Yu Guo et al. (2025).
 =========================================================================
 
+![topPicture](docs/misc/Hardware_assemble.jpg)
+
 This repository provides the hardware desing files (SolidWorks CAD files) and software soruce codes for motion correction of optical coherence (OCT) tomography for in vivo dynamic OCT imaging.
 The details of the in vivo dynamic and the use of the presented hardware and software are described in details in Yu Guo et al, arXiv (2025).
 
